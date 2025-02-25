@@ -1,1 +1,2 @@
-print("Hell Am ojas")
+print("Hello Am ojas")
+print("this is demo repo")
